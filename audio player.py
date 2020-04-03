@@ -55,7 +55,6 @@ class Application(tkinter.Tk):
         self.fs = 16000
         self.CHUNK = 100
         
-        self.att_predict = []
         self.values = []
         self.answer = []
         
