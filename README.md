@@ -8,4 +8,4 @@ Currently the buttons consists of **Quit**, **Play**, **Click** and **reset**, w
 It is quite easy to plug in more customized functions and buttons as you like.
 
 # Demo
-![UI of audio player]('./demo.gif')
+![UI of audio player](./demo.gif)
